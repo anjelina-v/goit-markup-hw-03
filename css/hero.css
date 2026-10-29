@@ -1,12 +1,15 @@
 .hero {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 
 .hero-title {
   font-size: 56px;
   line-height: 1.07;
-  text-align: center;
   color: #fff;
+  max-width: 496px;
+  margin: 0 auto;
+  margin-bottom: 48px;
 }
 
 .hero-btn {
@@ -15,6 +18,8 @@
   color: #fff;
   background-color: #4d5ae5;
   border-color: #2e2f42;
+  display: block;
+  margin: 0 auto;
 }
 
 .hero-btn:hover,
